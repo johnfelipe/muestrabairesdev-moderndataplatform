@@ -32,6 +32,3 @@ Ver [¿Qué hay de nuevo?](./documentation/changes.md) para obtener una lista de
 *   [Mapeo de puertos](./documentation/port-mapping.md)
 *   [Preguntas Frecuentes](./documentation/faq.md)
 *   [Solución de problemas](./documentation/troubleshooting.md)
-*   [Agregar servicios adicionales no compatibles con una pila de plataforma](https://github.com/TrivadisPF/platys/blob/master/documentation/docker-compose-override.md)
-*   [Cómo usar una pila generada por platys sin Internet](https://github.com/TrivadisPF/platys/blob/master/documentation/docker-compose-without-internet.md)
-*   [Actualizar a una nueva versión de pila de plataforma](https://github.com/TrivadisPF/platys/blob/master/documentation/upgrade-platform-stack.md)
