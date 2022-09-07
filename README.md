@@ -3,7 +3,7 @@
 Esta pila de plataforma define el conjunto de servicios para una plataforma de datos moderna, como
 
 *   Kafka
-*   Chispa
+*   Spark
 *   Ecosistema de Hadoop
 *   StreamSets y NiFi
 *   Zeppelin & Jupyter
