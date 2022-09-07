@@ -2,7 +2,7 @@
 
 Aquí estamos documentando libros de cocina sobre cómo usar la plataforma:
 
-*   ** Airflow**
+*   **Corriente de aire**
     *   [Programe y ejecute una aplicación Python simple](./recipes/airflow-schedule-python-app/README.md) - `1.12.0`
 
 *   **Trino (anteriormente Presto SQL)**
