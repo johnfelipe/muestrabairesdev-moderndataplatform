@@ -2,7 +2,7 @@
 
 Aquí estamos documentando libros de cocina sobre cómo usar la plataforma:
 
-*   **Corriente de aire**
+*   ** Airflow**
     *   [Programe y ejecute una aplicación Python simple](./recipes/airflow-schedule-python-app/README.md) - `1.12.0`
 
 *   **Trino (anteriormente Presto SQL)**
@@ -19,7 +19,7 @@ Aquí estamos documentando libros de cocina sobre cómo usar la plataforma:
     *   [Uso de proxy MQTT confluente](./recipes/using-mqtt-proxy/README.md)
     *   [Uso de HiveMQ con extensiones de Kafka](./recipes/using-hivemq-with-kafka-extension/README.md) - `1.12.0`
 
-*   **Chispa**
+*   **Spark**
     *   [Ejecute la aplicación Java Spark usando `spark-submit`](./recipes/run-spark-simple-app-java-submit/README.md)
     *   [Ejecutar la aplicación Java Spark con Docker](./recipes/run-spark-simple-app-java-docker/README.md)
     *   [Ejecute la aplicación Scala Spark usando `spark-submit`](./recipes/run-spark-simple-app-scala-submit/README.md)
