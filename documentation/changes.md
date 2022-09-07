@@ -1,6 +1,5 @@
 # `modern-data-platform` - ¿Qué hay de nuevo?
 
-Ver [Actualizar a una nueva versión de pila de plataforma](https://github.com/TrivadisPF/platys/blob/master/documentation/upgrade-platform-stack.md) para saber cómo actualizar a una versión más reciente.
 
 ## Novedades de la versión 1.16.0
 
