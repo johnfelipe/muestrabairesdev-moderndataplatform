@@ -32,7 +32,7 @@ docker exec -ti cassandra-1 cqlsh
 
 Alternativamente, también puede usar la interfaz de usuario web de Cassandra en <http://dataplatform:28120/>.
 
-Cree un espacio de claves para los datos de IoT:
+Cree un KEYSPACE para los datos de IoT:
 
 ```sql
 DROP KEYSPACE IF EXISTS iot_v10;
@@ -41,7 +41,7 @@ CREATE KEYSPACE iot_v10
 WITH replication = {'class': 'SimpleStrategy', 'replication_factor': 3};
 ```
 
-Ahora cambie al nuevo espacio de teclas
+Ahora cambie al nuevo KEYSPACE
 
 ```sql
 USE iot_v10;
