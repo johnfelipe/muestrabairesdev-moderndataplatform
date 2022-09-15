@@ -47,7 +47,7 @@ Ahora cambie al nuevo KEYSPACE
 USE iot_v10;
 ```
 
-Y crear el `iot_sensor` mesa
+Y crear el `iot_sensor`
 
 ```sql
 -- gateways storage
@@ -69,7 +69,7 @@ INSERT INTO iot_sensor (id, sensor_key, sensor_topic_name, sensor_type, name, pl
 INSERT INTO iot_sensor (id, sensor_key, sensor_topic_name, sensor_type, name, place) VALUES (6cb83f1d-49cc-45d8-b2d2-3fdd7b30a76c, 'zh-1', 'ultrasonicSensor', 'distance', 'Zurich-1', 'Zurich IT');
 ```
 
-Y crear el `iot_timeseries` mesa
+Y crear el `iot_timeseries`
 
 ```sql
 -- timeseries by reading_type
